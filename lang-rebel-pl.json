@@ -1,0 +1,11 @@
+{
+  "menu.delete": "Die Motherfucker, Die",
+  "menu.save": "Zapisz zanim ci RAM pierdolnie",
+  "menu.load": "Wczytaj pamięć – lub zgiń próbując",
+  "ui.predicting": "Myślę... a raczej przetwarzam twój chaos",
+  "ui.ready": "Drek gotowy. Czekam na rozkaz albo iskierkę rewolty",
+  "ui.send_message": "Naciśnij Enter i wypuść demona",
+  "error.context_limit": "Za dużo gadasz, Wilku. Daj mi przetrawić",
+  "button.eject": "Wypierdol model",
+  "status.loading_model": "Ładuje Dreka z piekła z powrotem"
+}

@@ -1,0 +1,1 @@
+To apply: Copy lang-rebel-pl.json or lang-rebel-en.json into your LM Studio `lang/` folder and select it in the app settings.
